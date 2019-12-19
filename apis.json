@@ -1,0 +1,53 @@
+{
+    "name": "Cosmos Enterprises",
+    "description": "Cosmos Enterprises is a full service Online Branding, Internet, Inbound & Social Media Marketing, Website Design and Search Engine Optimization (SEO) Company.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3700-cosmos-enterprises.jpg",
+    "tags": [
+        "agencies",
+        "dev shop",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cosmos-enterprises\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cosmos Enterprises",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3700-cosmos-enterprises.jpg",
+            "humanURL": "http:\/\/cosmosenterprises.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cosmos-enterprises-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/cosmosenterprises.com\/blog\/"
+        },
+        {
+            "type": "Facebook",
+            "url": "https:\/\/www.facebook.com\/CosmosEnterprisesLLC"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CosmosEntprises"
+        },
+        {
+            "type": "Email",
+            "url": "Info@CosmosEnterprises.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cosmosenterprises.com\/"
+        }
+    ]
+}
